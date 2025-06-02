@@ -12,7 +12,7 @@ function DogBtn() {
     <div>
       <button className='dogAdoptionButton' onClick={handleClick}>
         Adopt a dog!<br />
-        <img src="./public//images/mainpagedogicon.jpeg" id="dogImg" alt="Dog Icon" />
+        <img src="./images/mainpagedogicon.jpeg" id="dogImg" alt="Dog Icon" />
       </button>
     </div>
   );
